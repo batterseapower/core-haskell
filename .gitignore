@@ -1,0 +1,8 @@
+# OS stuff
+.DS_Store
+
+# Build artifacts
+*.hi
+*.o
+dist/
+.dist-scion/
